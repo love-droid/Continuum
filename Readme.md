@@ -76,6 +76,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Rohit - [@yadav_rohit_26](https://twitter.com/yadav_rohit_26) 
 <!--   - email@example.com -->
+Love - [@https://www.linkedin.com/in/love-vig-0074581ba/]
 
 Project Link: [https://github.com/yadav-rohit/continuum.git](https://github.com/yadav-rohit/continuum.git)
 
